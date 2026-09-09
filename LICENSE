@@ -1,0 +1,101 @@
+================================================================================
+          HGC MASTER COMMERCIAL & PROPRIETARY SOFTWARE LICENSE (v3.0)
+                        HEMANSH GROUP OF COMPANIES (HGC)
+                         COPYRIGHT (c) 2026 HEMANSH
+                              ALL RIGHTS RESERVED
+================================================================================
+
+IMPORTANT — READ CAREFULLY: This Master Proprietary Software License ("License") 
+is a legally binding agreement between you (an individual or single legal entity, 
+hereinafter "Recipient" or "User") and Hemansh / Hemansh Group of Companies 
+("Licensor" or "Author"), the sole owner and creator of this software product, 
+codebase, sub-modules, architectures, design systems, and documentation 
+(collectively, the "Software").
+
+BY ACCESSING, VIEWING, CLONING, DOWNLOADING, COMPILING, OR OTHERWISE USING ANY 
+PORTION OF THIS REPOSITORY OR CODEBASE, YOU AGREE TO BE UNCONDITIONALLY BOUND BY 
+THE TERMS OF THIS LICENSE. IF YOU DO NOT AGREE, DO NOT ACCESS OR USE THIS SOFTWARE.
+
+--------------------------------------------------------------------------------
+1. PROPRIETARY RIGHTS & ABSOLUTE OWNERSHIP
+--------------------------------------------------------------------------------
+(a) Universal Scope: The Software—including but not limited to all source code, 
+    header files, kernel/system architectures, database schemas, API specifications, 
+    network protocols, client/server implementations, design tokens, UI/UX layouts, 
+    graphics, binaries, scripts, and documentation—is the exclusive intellectual 
+    property of the Author.
+(b) Statutory Protection: The Software is protected under U.S., Indian, and 
+    international copyright, trade secret, trademark, and patent laws, as well as 
+    applicable international treaties. 
+(c) Non-Transferability: No title to, ownership of, or intellectual property 
+    rights in the Software are transferred to the Recipient. Receipt, possession, 
+    hosting, or inspection of this codebase does not grant any express or implied 
+    license, operational rights, or distribution privileges.
+
+--------------------------------------------------------------------------------
+2. COMPREHENSIVE RESTRICTIONS ON USE
+--------------------------------------------------------------------------------
+Unless explicitly authorized in writing by the Author via a signed written agreement, 
+the Recipient shall NOT, directly or indirectly through third parties:
+
+(a) Commercial Exploitation & SaaS: Sell, resell, rent, lease, sublicense, 
+    distribute, host as a service (SaaS/PaaS), assign, or otherwise commercially 
+    exploit the Software or any portion thereof.
+(b) Reverse Engineering & Decompilation: Decompile, reverse engineer, disassemble, 
+    decrypt, modify, translate, or attempt to reconstruct or derive the underlying 
+    source code, internal algorithm mechanics, data models, or communication 
+    protocols of compiled binaries or obfuscated client files.
+(c) Architectural Cloning & Clean-Room Re-Implementation: Analyze, observe, or test 
+    the operational mechanics, payload specifications, layout shell styles, 
+    or system architecture of the Software for the purpose of building a competitive 
+    product, derivative work, or functional clone in a "clean-room" environment.
+(d) Artificial Intelligence & Machine Learning Prohibition: Ingest, train, index, 
+    fine-tune, parse, feed, or process any portion of this codebase, documentation, 
+    or assets into any Artificial Intelligence (AI), Large Language Model (LLM), 
+    neural network, machine learning system, automated coding agent, or retrieval-augmented 
+    generation (RAG) context window (including but not limited to GitHub Copilot, 
+    ChatGPT, Claude, Cursor, or automated web crawlers).
+(e) Unauthorized Execution: Compile, deploy, or run instance environments of this 
+    Software (whether locally or on cloud infrastructure) for any purpose other 
+    than private, non-public testing explicitly authorized by the Author.
+
+--------------------------------------------------------------------------------
+3. MANDATORY COPYRIGHT ASSIGNMENT & COMMUNITY CONTRIBUTIONS
+--------------------------------------------------------------------------------
+(a) Submissions & Contributions: Any code patches, pull requests, issue reports, 
+    feature requests, optimization ideas, UI mockups, or system suggestions 
+    submitted to the Author or repository by any party immediately become the 
+    sole, exclusive, and unencumbered intellectual property of the Author.
+(b) Irrevocable Assignment: By submitting any contribution, the submitter hereby 
+    irrevocably assigns all rights, title, copyright, patent rights, and trade 
+    secret claims to the Author worldwide in perpetuity, and waives all "moral rights" 
+    and claims to future compensation, royalties, or ownership.
+
+--------------------------------------------------------------------------------
+4. SEVERABILITY, JURISDICTION & REMEDIES
+--------------------------------------------------------------------------------
+(a) Injunctive Relief: Recipient acknowledges that unauthorized breach of this 
+    License will cause irreparable harm to the Author for which monetary damages 
+    alone are inadequate. The Author shall be entitled to seek immediate injunctive 
+    and equitable relief in any court of competent jurisdiction without posting bond.
+(b) Governing Law: This License shall be governed by and construed in accordance 
+    with the laws of India and international IP treaties, without regard to conflict 
+    of law principles.
+(c) Severability: If any provision of this License is held by a court of competent 
+    jurisdiction to be invalid, illegal, or unenforceable, the remaining provisions 
+    shall remain in full force and effect.
+
+--------------------------------------------------------------------------------
+5. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR (HEMANSH) 
+OR HGC BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
+CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE, INABILITY TO 
+USE, OR DISTRIBUTION OF THIS SOFTWARE.
+
+================================================================================
+FOR PERMISSION REQUESTS OR COMMERCIAL LICENSING ENQUIRIES, CONTACT:
+HEMANSH / HEMANSH GROUP OF COMPANIES (HGC)
+================================================================================
